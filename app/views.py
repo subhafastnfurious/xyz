@@ -15,3 +15,13 @@ def all_json_models(request, brand):
     json_models = serializers.serialize("json", models)
     return HttpResponse(json_models, mimetype="application/javascript")
 
+
+
+
+
+
+
+
+
+    dsdfsdfdsdssdffffffffffsdddsdsfdswfdsfsdfsdf
+
